@@ -1,2 +1,1 @@
-# ti-rex
-ti-rex juego
+# C18_LP_AA1
